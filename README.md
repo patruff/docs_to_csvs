@@ -8,12 +8,15 @@ Also will handle .zip files full of .txt files
 
 Put the script in the same directory, so something like
 
+```
 |-- CECL-TDR.ED.026.NAFCU JAMES AKIN,0.pdf
 |-- CECL.docx
 |-- CR 2022-06.zip
+```
 
 Will become
 
+```
 |-- CECL-TDR.ED.026.NAFCU JAMES AKIN,0.pdf
 |-- CECL.docx
 |-- CR 2022-06
@@ -74,3 +77,4 @@ Will become
 |   |-- Report1.csv
 |   `-- TradeNames.csv
 |-- Credit Unions.docx
+```
